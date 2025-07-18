@@ -1,4 +1,4 @@
 basta executar:
-
+cd mypersonal-zsh-config
 chmod +x install.sh
 ./install.sh
